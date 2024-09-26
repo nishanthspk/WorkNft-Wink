@@ -10,6 +10,9 @@ function App() {
     <>
       <div className='bg-gray-700 h-screen '>
       <button className='bg-blue-500 px-6 py-2 rounded-lg '>Connect Wallet</button>
+      <div>
+      
+      </div>
       </div>
       
     </>
