@@ -15,7 +15,7 @@ function App() {
       <img src={BG} className='h-[200px] w-[200px] ' alt="" />
       </div>
       <div className='flex justify-center '>
-      <input type="text" className='px-24 bg-blue-200 py-2 rounded-lg ' />
+      <input type="text" className='px-24 bg-violet-200 py-2 rounded-lg ' />
       </div>
       <div>
       <div className='flex justify-center my-4 pt-4'>
