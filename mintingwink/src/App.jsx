@@ -19,7 +19,7 @@ function App() {
       </div>
       <div>
       <div className='flex justify-center my-4 pt-4'>
-      <button className='bg-amber-500  px-36 py-3 rounded-3xl text-white font-bold hover:bg-amber-600'>Mint</button>
+      <button className='bg-yellow-500  px-36 py-3 rounded-3xl text-white font-bold hover:bg-amber-600'>Mint</button>
       </div>
       </div>
       <div className='flex justify-center '>
