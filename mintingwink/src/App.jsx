@@ -9,7 +9,7 @@ function App() {
     <>
       <div className='bg-gradient-to-t from-customGrayStroke via-customEnd2 to-blue-500  h-screen '>
       <div className='flex justify-center pt-28'>
-      <button className='bg-blue-500 px-28 py-3 rounded-3xl text-white font-bold hover:bg-blue-600'>Connect Wallet</button>
+      <button className='bg-amber-500 px-28 py-3 rounded-3xl text-white font-bold hover:bg-amber-600'>Connect Wallet</button>
       </div>
       <div className='flex justify-center my-10'>
       <img src={BG} className='h-[200px] w-[200px] ' alt="" />
@@ -19,7 +19,7 @@ function App() {
       </div>
       <div>
       <div className='flex justify-center my-4 pt-4'>
-      <button className='bg-blue-500 px-36 py-3 rounded-3xl text-white font-bold hover:bg-blue-600'>Mint</button>
+      <button className='bg-amber-500  px-36 py-3 rounded-3xl text-white font-bold hover:bg-amber-600'>Mint</button>
       </div>
       </div>
       <div className='flex justify-center '>
