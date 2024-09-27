@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className='bg-gradient-to-t from-customStart via-customStart to-blue-900  h-screen '>
+      <div className='bg-gradient-to-t from-customGrayStroke via-customEnd2 to-blue-500  h-screen '>
       <div className='flex justify-center pt-28'>
       <button className='bg-blue-500 px-28 py-3 rounded-3xl text-white font-bold hover:bg-blue-600'>Connect Wallet</button>
       </div>
