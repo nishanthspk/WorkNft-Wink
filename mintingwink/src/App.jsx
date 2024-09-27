@@ -7,20 +7,23 @@ function App() {
 
   return (
     <>
-      <div className='bg-gray-700 h-screen '>
+      <div className='bg-gradient-to-t from-customStart via-customStart to-blue-900  h-screen '>
       <div className='flex justify-center pt-28'>
-      <button className='bg-blue-500 px-28 py-3 rounded-3xl text-white font-bold'>Connect Wallet</button>
+      <button className='bg-blue-500 px-28 py-3 rounded-3xl text-white font-bold hover:bg-blue-600'>Connect Wallet</button>
       </div>
       <div className='flex justify-center my-10'>
       <img src={BG} className='h-[200px] w-[200px] ' alt="" />
       </div>
       <div className='flex justify-center '>
-      <input type="text" className='px-24 bg-blue-200 py-2 rounded-lg' />
+      <input type="text" className='px-24 bg-blue-200 py-2 rounded-lg ' />
       </div>
       <div>
-      <div className='flex justify-center my-10'>
-      <button className='bg-blue-500 px-36 py-3 rounded-3xl text-white font-bold'>Mint</button>
+      <div className='flex justify-center my-4 pt-4'>
+      <button className='bg-blue-500 px-36 py-3 rounded-3xl text-white font-bold hover:bg-blue-600'>Mint</button>
       </div>
+      </div>
+      <div className='flex justify-center '>
+      <p className='text-white '>Powered By Winks.fun</p>
       </div>
       </div>
       
